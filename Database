@@ -1,0 +1,15 @@
+🔹 Basic Database & SQL (With Answers)
+1. What is a database?
+A database is an organized collection of data stored electronically so it can be easily accessed, managed, and updated.
+2. What is DBMS?
+DBMS (Database Management System) is software used to create, store, retrieve, and manage data in a database.
+👉 Example: MySQL, Oracle, PostgreSQL
+3. Difference between DBMS and RDBMS?
+DBMS
+RDBMS
+Stores data in files
+Stores data in tables
+No relationships
+Relationships using keys
+Less secure
+More secure
