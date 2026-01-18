@@ -1,0 +1,13 @@
+What is a foreign key?
+A foreign key links one table to another table’s primary key.
+8. What is NULL?
+NULL means no value or missing value. It is not zero or empty.
+🔹 Basic SQL Queries (With Answers)
+9. Select all records from a table
+Copy code
+Sql
+SELECT * FROM table_name;
+10. Select specific columns
+Copy code
+Sql
+SELECT name, email FROM users;
