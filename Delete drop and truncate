@@ -1,0 +1,17 @@
+11. What is WHERE clause?
+Used to filter records.
+Copy code
+Sql
+SELECT * FROM users WHERE age > 25;
+12. Difference between DELETE and TRUNCATE?
+DELETE
+TRUNCATE
+Deletes selected rows
+Deletes all rows
+Can use WHERE
+Cannot use WHERE
+Can rollback
+Cannot rollback
+13. Difference between DROP and DELETE?
+DROP removes the table completely
+DELETE removes records only
