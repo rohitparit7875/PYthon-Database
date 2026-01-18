@@ -1,0 +1,8 @@
+4. What is SQL?
+SQL (Structured Query Language) is used to communicate with databases to insert, update, delete, and retrieve data.
+5. What is a table?
+A table stores data in rows and columns.
+6. What is a primary key?
+A primary key uniquely identifies each record in a table.
+✔ Cannot be NULL
+✔ Must be unique
